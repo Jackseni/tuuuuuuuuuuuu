@@ -1,0 +1,22 @@
+.matrix-card{
+    border-radius: 0.375rem;
+    padding: 0.5rem;
+    height: 6rem;
+}
+
+.bg-green-300{
+    background-color: #86efac;
+}
+
+.bg-red-300{
+    background-color: #fca5a5;
+}
+
+.bg-yellow-300{
+    background-color: #fde047;
+}
+
+.bg-blue-300{
+    background-color: #93c5fd;
+}
+
